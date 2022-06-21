@@ -5,7 +5,7 @@ Dentro de la metodologia Scrum se encuentran las Ceremonias que son las siguient
 < Sprint Review Meeting (se realiza una ves se termina el sprint, para mostrar lo que se completo y lo que no, es necesario que este el Product Owner)
 < Sprint Retrospective Meeting ( Tambien se realiza al finalizar la sprint y se ve lo que salio bien y mal, pero sobretodo en lo que salio bien y en lo que se debe mejorar)
 ----------------------
-Los Artefactos según la guía Scrum, están diseñados para maximizar la transparencia de la información, que es necesaria para asegurar que todo el equipo tenga el mismo entendimiento del Artefacto.
+**Los Artefactos** según la guía Scrum, están diseñados para maximizar la transparencia de la información, que es necesaria para asegurar que todo el equipo tenga el mismo entendimiento del Artefacto.
 Las decisiones para optimizar el valor y controlar el riesgo se hacen con base en estos Artefactos, por lo tanto si no son lo suficientemente transparentes se puede incurrir en decisiones erróneas.
 
 Pero veamos cuales son estos Artefactos:
@@ -43,7 +43,7 @@ Como siempre, estaré encantado de recibir tus comentarios y si te gustó, compa
 
 ------------------------------
 
-Roles
+**Roles**
 
 En Scrum, el equipo se focaliza en construir software de calidad. La gestión de un proyecto Scrum se centra en definir cuáles son las características que debe tener el producto a construir (qué construir, qué no y en qué orden) y en vencer cualquier obstáculo que pudiera entorpecer la tarea del equipo de desarrollo.
 
