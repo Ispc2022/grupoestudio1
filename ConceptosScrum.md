@@ -19,15 +19,15 @@ Por definición, esta lista nunca está completa, sino que es un ente vivo y din
 
 Los ítems que aparecen en el Product Backlog tienen los siguientes atributos:
 
-Descripción
-Ordenación
-Estimación
-Valor
+_Descripción_
+_Ordenación_
+_Estimación_
+_Valor_
 A medida que el producto va siendo usado y se recibe feedback, la lista se va haciendo más larga y detallada.
 
 Los elementos o ítems que están ordenados más arriba, normalmente son los más detallados y claros, ya que serán los más próximos a ser desarrollados.
 
-Sprint Backlog
+**Sprint Backlog**
 Son los ítems o elementos del Product Backlog seleccionados para ser ejecutados durante el Sprint en curso. Así pues, el Sprint Backlog es un plan para entregar un Incremento de producto “Terminado” al final del Sprint.
 
 A medida que se va trabajando sobre el producto, va apareciendo nuevo trabajo, que el Equipo de Desarrollo va añadiendo al Sprint Backlog.
