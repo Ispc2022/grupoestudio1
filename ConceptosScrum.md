@@ -43,7 +43,7 @@ Es la suma de todos los elementos del Sprint Backlog “Terminados” más los I
 
 ------------------------------
 
-**Roles**
+***Roles***
 
 En Scrum, el equipo se focaliza en construir software de calidad. La gestión de un proyecto Scrum se centra en definir cuáles son las características que debe tener el producto a construir (qué construir, qué no y en qué orden) y en vencer cualquier obstáculo que pudiera entorpecer la tarea del equipo de desarrollo.
 
