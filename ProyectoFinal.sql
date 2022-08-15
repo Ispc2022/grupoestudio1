@@ -34,5 +34,8 @@ FOREIGN KEY (PERRO) REFERENCES perro (ID_PERRO)
 INSERT INTO dueno (dni,nombre,apellido,telefono,direccion) values (27894568,"Marine","Simonelli",3516746471,"Nazaret 3551");
 INSERT INTO perro(id_perro,nombre,fecha_nam,sexo,dni_dueno) values (001,"Owen",'03-05-21',"m",27894568);
 
-SELECT P.NOMBRE FROM perro P JOIN dueno D ON P.DNI = D.DNI_DUENO
+SELECT D.Dni, D.Nombre, P.Id_Perro, P.Nombre
+FROM dueno D JOIN perro P
+ON D.DNI = P.DNI_DUENO
+WHERE D.Nombre = "Pedro"
 
