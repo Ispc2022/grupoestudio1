@@ -1,0 +1,7 @@
+1)si, hubo una infracción a la Ley de Protección de Datos Personales (Ley 25326)
+
+2)Dicha ley Se caracteriza por definir principios generales relativos a la protección de datos. Esto abarca desde derechos de los titulares hasta las figuras de usuarios y responsables de archivos, registros y bancos de datos.
+
+3)Se puede denunciar en la fiscalía de delitos informáticos. Porque se publicaron datos personales sin consentimiento.
+
+4)La responsabilidad la tiene en primer instancia el programador ya que es quien se encarga de subir a internet estos datos, y debería tener etica y deontologia profesional con los mismos. En cuanto a las responsabilidades, el dueño tiene responsabilidad moral sobre los datos de sus clientes hacia un tercero. El servidor no tiene responsabilidad alguna. Los dueños de los animalitos dejaron sus datos porque confiaron en el dueño de la veterinaria
